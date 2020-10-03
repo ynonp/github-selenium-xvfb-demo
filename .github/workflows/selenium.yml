@@ -1,8 +1,8 @@
-name: pytest-demo
+name: selenium-demo
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
